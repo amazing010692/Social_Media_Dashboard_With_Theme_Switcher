@@ -28,6 +28,7 @@ body.light {
     top: 0;
     margin: 0 auto;
 }
+
 .light .background-box {
     background-color: hsl(225, 100%, 98%);
 }
@@ -134,9 +135,18 @@ body.light {
     text-align: center;
     position: relative;
 }
+
+.card:hover {
+    background-color: hsl(228, 26%, 27%);
+  }
+
 .light .card {
     background-color: hsl(227, 47%, 96%);
 }
+
+/*.light, .card:hover {
+    background-color: hsl(232, 33%, 91%);
+}*/
 
 .card::before {
     content: "";
