@@ -200,7 +200,7 @@ body.light {
 
 .social-media-tag {
     font-weight: 700;
-    font-size: 14px;
+    font-size: 12px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -254,7 +254,7 @@ body.light {
 }
 
 .light .bottom-cards__title {
-    color: hsl(230, 17%, 14%);
+    color: hsl(228, 12%, 44%);
 }
 
 @media (max-width: 960px) {
