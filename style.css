@@ -144,9 +144,9 @@ body.light {
     background-color: hsl(227, 47%, 96%);
 }
 
-/*.light, .card:hover {
+.light .card:hover {
     background-color: hsl(232, 33%, 91%);
-}*/
+}
 
 .card::before {
     content: "";
